@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>$1  = xss::clean ( $2 );
+
+$0</string>
+	<key>name</key>
+	<string>xss::clean</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>xmlb</string>
+	<key>uuid</key>
+	<string>40758579-E13B-44A7-808C-026A61213BCE</string>
+</dict>
+</plist>

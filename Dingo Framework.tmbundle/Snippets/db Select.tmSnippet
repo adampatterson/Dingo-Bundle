@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>$1 = $2-&gt;select ( '$3', '$4' )
+              -&gt;where ( '$5', '=', '$6' )
+              ${7:-&gt;clause( 'AND' )}
+              ${8:-&gt;where( '$9', '${10:|=!=}', '$11' )}
+              ${12:-&gt;order_by( '$13', '${14:DESC|ASC}' )}
+              -&gt;execute ( );
+
+$0</string>
+	<key>name</key>
+	<string>db Select</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>dbsn</string>
+	<key>uuid</key>
+	<string>0E3EC1D0-CF3F-44D9-9286-2C9F45769EED</string>
+</dict>
+</plist>

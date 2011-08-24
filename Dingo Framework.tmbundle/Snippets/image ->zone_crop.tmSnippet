@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>$1-&gt;zone_crop ( ${2:250,200,'top-left|top|top-right|right|bottom-right|bottom|bottom-left|left|center'} );
+$0</string>
+	<key>name</key>
+	<string>image -&gt;zone_crop</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>imagec</string>
+	<key>uuid</key>
+	<string>1C2195F7-4506-44E5-A9EE-8170DDCF73E2</string>
+</dict>
+</plist>

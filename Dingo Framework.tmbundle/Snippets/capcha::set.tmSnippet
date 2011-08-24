@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>capcha::set ( '${1:name}', ${1:length} );
+$0</string>
+	<key>name</key>
+	<string>capcha::set</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>caps</string>
+	<key>uuid</key>
+	<string>8C2FAA54-55E5-49E2-ABA8-4115C1E40E4E</string>
+</dict>
+</plist>

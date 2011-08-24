@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-&gt;is_allowed  ( '$1', '$2' );
+$0</string>
+	<key>name</key>
+	<string>acl -&gt;is_allowed</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>acli</string>
+	<key>uuid</key>
+	<string>A8CF8258-2CF8-4629-849D-54EFFE0C2298</string>
+</dict>
+</plist>

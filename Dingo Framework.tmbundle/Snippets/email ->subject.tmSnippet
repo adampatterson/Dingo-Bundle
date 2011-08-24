@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>$1-&gt;subject ( '${2:Testing}' );
+$0</string>
+	<key>name</key>
+	<string>email -&gt;subject</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>emails</string>
+	<key>uuid</key>
+	<string>623EEBC8-E0EA-4012-8B9F-2A9EE899B092</string>
+</dict>
+</plist>

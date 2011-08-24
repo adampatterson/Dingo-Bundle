@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>user::canned ( '$1' );
+$0</string>
+	<key>name</key>
+	<string>user::banned</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>userd</string>
+	<key>uuid</key>
+	<string>E45AD72C-35BB-49B6-8BFC-1CD820359900</string>
+</dict>
+</plist>

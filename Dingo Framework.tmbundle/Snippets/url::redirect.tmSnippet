@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>url::redirect ( '${1:mycontroller/myfunc}' );
+
+$0</string>
+	<key>name</key>
+	<string>url::redirect</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>utlr</string>
+	<key>uuid</key>
+	<string>01152A32-FC29-465E-A29E-12230091FCEC</string>
+</dict>
+</plist>

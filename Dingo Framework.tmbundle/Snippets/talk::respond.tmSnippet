@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>talk::respond ( $1 );
+$0</string>
+	<key>name</key>
+	<string>talk::respond</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>talkr</string>
+	<key>uuid</key>
+	<string>03ABEC5C-F311-4697-89D8-D1AFCCC2C39F</string>
+</dict>
+</plist>
