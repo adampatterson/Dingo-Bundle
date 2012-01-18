@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>load::file ('$1','$2');
+
+$0</string>
+	<key>name</key>
+	<string>load::file</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>loadf</string>
+	<key>uuid</key>
+	<string>46C94D4B-1C80-4AAF-8F26-2FE53F0A4FB6</string>
+</dict>
+</plist>

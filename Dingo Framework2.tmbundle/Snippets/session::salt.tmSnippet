@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>$1 = session::salt ( );
+
+$0</string>
+	<key>name</key>
+	<string>session::salt</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>sessions</string>
+	<key>uuid</key>
+	<string>D5A74758-EF84-4240-8B81-D4280C9A4B73</string>
+</dict>
+</plist>

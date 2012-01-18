@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-&gt;deny ( '$1', '$2' );
+$0</string>
+	<key>name</key>
+	<string>acl -&gt;deny</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>alcd</string>
+	<key>uuid</key>
+	<string>D68064BC-2583-4B15-9864-0EAE4A0A3074</string>
+</dict>
+</plist>

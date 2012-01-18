@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-&gt;paginate ( $current_page, $limit, $page )
+$0</string>
+	<key>name</key>
+	<string>db -&gt;paginate</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>dbp</string>
+	<key>uuid</key>
+	<string>E66E6FBE-E70F-4CE0-8AF0-CEDCE3223FDA</string>
+</dict>
+</plist>

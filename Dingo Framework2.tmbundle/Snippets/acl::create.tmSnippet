@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>$1 = acl::create ( '$2' );
+
+$0</string>
+	<key>name</key>
+	<string>acl::create</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>aclc</string>
+	<key>uuid</key>
+	<string>0EFC89A6-95D1-407E-A577-430BB84485E2</string>
+</dict>
+</plist>

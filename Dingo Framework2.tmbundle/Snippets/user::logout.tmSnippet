@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>user::logout ( );
+$0</string>
+	<key>name</key>
+	<string>user::logout</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>usero</string>
+	<key>uuid</key>
+	<string>C50E0C7D-9720-4BBC-8CFB-96849DDB43D1</string>
+</dict>
+</plist>

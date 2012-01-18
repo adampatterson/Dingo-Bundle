@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>$1-&gt;prev_page ( );
+$0</string>
+	<key>name</key>
+	<string>pagination -&gt;prev_page</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>pagep</string>
+	<key>uuid</key>
+	<string>D1032C64-FB7C-470D-BEA2-21A898F50C2E</string>
+</dict>
+</plist>

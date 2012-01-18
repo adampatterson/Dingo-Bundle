@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>$1-&gt;crop ( ${2:0,0,250,200} );
+$0</string>
+	<key>name</key>
+	<string>image -&gt;crop</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>imagec</string>
+	<key>uuid</key>
+	<string>D5B77E5D-299B-4C1D-89E7-58D40722BEE8</string>
+</dict>
+</plist>

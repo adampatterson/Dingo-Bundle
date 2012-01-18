@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>user::update ( '$1' )
+           -&gt;email ( '$2' )
+           -&gt;username ( '$3' )
+           -&gt;type ( '$4' )
+           -&gt;password ( '$5' )
+           ${6:-&gt;data( '$7', '$8' )}
+           -&gt;save();
+$0</string>
+	<key>name</key>
+	<string>user::update</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>useru</string>
+	<key>uuid</key>
+	<string>7D3621B8-E176-4F88-987E-CB634A68C225</string>
+</dict>
+</plist>

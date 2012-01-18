@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>$1 = url::page ( '${2:mycontroller/myfunc}' );
+
+$0</string>
+	<key>name</key>
+	<string>url::page</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>urlp</string>
+	<key>uuid</key>
+	<string>AACCB558-2E19-49B6-AFC1-27DE54B86328</string>
+</dict>
+</plist>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>user::create ( array (
+	'username' =&gt; '$1',
+	'email' =&gt; '$2',
+	'password' =&gt; '$3',
+	'type' =&gt; '$4'
+));
+
+$0</string>
+	<key>name</key>
+	<string>user::create</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>userc</string>
+	<key>uuid</key>
+	<string>1C443B1C-F935-4324-9812-65B40341C9EB</string>
+</dict>
+</plist>
